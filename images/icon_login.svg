@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18.996" height="23.047" viewBox="0 0 18.996 23.047">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.2"/>
+      <stop offset="0.028" stop-color="#fff" stop-opacity="0.278"/>
+      <stop offset="0.084" stop-color="#fff" stop-opacity="0.482"/>
+      <stop offset="0.088" stop-color="#fff" stop-opacity="0.502"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="icon_login" transform="translate(0 0)">
+    <g id="그룹_20" data-name="그룹 20" transform="translate(3.935 0)">
+      <path id="패스_43" data-name="패스 43" d="M-816.242,234.563a5.6,5.6,0,0,1-5.573-5.615,5.6,5.6,0,0,1,5.573-5.615,5.6,5.6,0,0,1,5.573,5.615A5.6,5.6,0,0,1-816.242,234.563Zm0-10.462a4.832,4.832,0,0,0-4.805,4.847,4.832,4.832,0,0,0,4.805,4.847,4.832,4.832,0,0,0,4.805-4.847A4.832,4.832,0,0,0-816.242,224.1Z" transform="translate(821.815 -223.333)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="그룹_21" data-name="그룹 21" transform="translate(0 11.352)">
+      <path id="패스_44" data-name="패스 44" d="M-939.221,619.278h-12.562A3.221,3.221,0,0,1-955,616.061a8.418,8.418,0,0,1,2.49-5.988,8.418,8.418,0,0,1,5.988-2.49h2.04a8.418,8.418,0,0,1,5.988,2.49,8.418,8.418,0,0,1,2.49,5.988A3.221,3.221,0,0,1-939.221,619.278Zm-7.3-10.927a7.719,7.719,0,0,0-7.71,7.71,2.452,2.452,0,0,0,2.449,2.449h12.562a2.452,2.452,0,0,0,2.449-2.449,7.719,7.719,0,0,0-7.71-7.71Z" transform="translate(955 -607.583)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
