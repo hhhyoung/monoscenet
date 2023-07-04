@@ -1,6 +1,6 @@
  $(function(){
  var swiper = new Swiper('.slide ', {
-    speed: 3000,//버튼을 슬라이드가 넘어가는 시간
+    speed: 700,//버튼을 슬라이드가 넘어가는 시간
 	  autoplay: {
         delay: 4000,//자동으로 넘어가기 전 머무르는 시간
         disableOnInteraction: false,
