@@ -18,3 +18,6 @@ $(function(){
 	}).filter(':eq(0)').click();
   });
 
+  $('.tabnav a').on('click', function() {
+    $('html').scrollTop('0');
+  });

@@ -162,7 +162,7 @@ input:focus {
 }
 
 .sub {
-    margin-top: 40px;
+    margin-top: 45px;
     display: none;
 }
 
@@ -181,12 +181,14 @@ input:focus {
 
 
 .sub li a img {
-    margin-top: 45px;
+    margin-top: 40px;
     filter: grayscale(1);
+    width: 250px;
 }
 
 .sub li a img:hover {
     filter: grayscale(0);
+    
 }
 
 .sub_bg {
@@ -196,7 +198,7 @@ input:focus {
     top: 171px;
     display: none;
     background-color: rgba(225, 225, 225, 0.7);
-    height: 290px;
+    height: 240px;
 }
 
 /* nav E */
