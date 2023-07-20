@@ -290,11 +290,13 @@ input:focus {
     position: relative;
 }
 
-.content1_in img {
+.content1_in .video-content {
+    width: 600px;
     display: block;
     position: absolute;
     right: 0;
     top: 230px;
+    background: url(../image_sub1/mainimg_nature.png) no-repeat;
 }
 
 .content1_in .textbox {
